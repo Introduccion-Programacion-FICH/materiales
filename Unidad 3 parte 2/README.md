@@ -1,1 +1,3 @@
-https://www.youtube.com/watch?v=rIhZoxnAK4w
+Teoria
+
+https://www.youtube.com/watch?v=ZtnQyA7Tdw0
