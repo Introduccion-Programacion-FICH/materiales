@@ -103,13 +103,13 @@ Cada carta vale su valor, las figuras valen 1/2 y se juega con un mazo de 40 car
 
 Ejemplo: 
 
-*Sale un 3, acumula 3. Pide otra carta.
+*Sale un 3, acumula 3. Pide otra carta.*
 
-Sale un 10, acumula 3 y 1/2. Pide otra carta.
+*Sale un 10, acumula 3 y 1/2. Pide otra carta.*
 
-Sale un 11, acumula 4. 
+*Sale un 11, acumula 4.*
 
-Etcétera.* 
+*Etcétera.* 
 
 Si el jugador decide plantarse antes de pasarse de 7 y 1/2, juega la Computadora que hace lo mismo. Si la computadora empata o le gana al jugador, entonces la PC es quien gana.
 
