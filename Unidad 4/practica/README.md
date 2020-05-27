@@ -123,15 +123,15 @@ La mayor dificultad es cómo realizar el mazo para retirar una carta y que no vu
 
 Ejemplo:
 
-*Mazo de valores:
+*Mazo de valores:*
 
-1, 2, 3, 4, 5, 6, 7, 10, 11, 12
+*1, 2, 3, 4, 5, 6, 7, 10, 11, 12*
 
-1, 2, 3, 4, 5, 6, 7, 10, 11, 12
+*1, 2, 3, 4, 5, 6, 7, 10, 11, 12*
 
-1, 2, 3, 4, 5, 6, 7, 10, 11, 12
+*1, 2, 3, 4, 5, 6, 7, 10, 11, 12*
 
-1, 2, 3, 4, 5, 6, 7, 10, 11, 12*
+*1, 2, 3, 4, 5, 6, 7, 10, 11, 12*
 
 
 *Donde cada columna es un palo.*
