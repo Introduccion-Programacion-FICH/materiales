@@ -104,8 +104,11 @@ Cada carta vale su valor, las figuras valen 1/2 y se juega con un mazo de 40 car
 Ejemplo: 
 
 *Sale un 3, acumula 3. Pide otra carta.
+
 Sale un 10, acumula 3 y 1/2. Pide otra carta.
+
 Sale un 11, acumula 4. 
+
 Etcétera.* 
 
 Si el jugador decide plantarse antes de pasarse de 7 y 1/2, juega la Computadora que hace lo mismo. Si la computadora empata o le gana al jugador, entonces la PC es quien gana.
@@ -121,9 +124,14 @@ La mayor dificultad es cómo realizar el mazo para retirar una carta y que no vu
 Ejemplo:
 
 *Mazo de valores:
+
 1, 2, 3, 4, 5, 6, 7, 10, 11, 12
+
 1, 2, 3, 4, 5, 6, 7, 10, 11, 12
+
 1, 2, 3, 4, 5, 6, 7, 10, 11, 12
+
 1, 2, 3, 4, 5, 6, 7, 10, 11, 12*
+
 
 *Donde cada columna es un palo.*
