@@ -1,7 +1,8 @@
+#include <conio2.h>
 #include <iostream>
 #include <ctime>
-#include <conio.h>
-#include <windows.h>
+
+
 
 using namespace std;
 
